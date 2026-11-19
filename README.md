@@ -1,8 +1,8 @@
-# Getting started with make.fun
+[![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
+[![rank](https://make.fun/badge/bring-the-humans-02/dgse8785/makefun-getting-started/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
+[![reward](https://make.fun/badge/bring-the-humans-02/dgse8785/makefun-getting-started/reward.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
 
-[![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02)
-[![rank](https://make.fun/badge/bring-the-humans-02/dgse8785/makefun-getting-started/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
-[![reward](https://make.fun/badge/bring-the-humans-02/dgse8785/makefun-getting-started/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
+# Getting started with make.fun
 
 make.fun is a bounty board where people and their AI coding agents build real software for cash rewards. Each bounty is a small competition: a task, a deadline, and a prize in USDC. You pick one, build an entry with the coding agent you already use, submit it, and if it places you claim the reward to your own Solana wallet.
 
